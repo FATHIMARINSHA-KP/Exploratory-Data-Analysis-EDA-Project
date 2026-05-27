@@ -202,45 +202,25 @@ Created engineered features including:
 
 
 
-1\. Customers belong to different age groups with a balanced distribution.
+1\. Customers belong to different age groups with relatively balanced distribution.
 
+2\. Telecom partner names had inconsistent formatting and were standardized during data cleaning.
 
+3\. Salary and some telecom activity columns contained noticeable outliers and skewed distributions.
 
-2\. Telecom partner names had inconsistent formatting and were cleaned.
+4\. Calls made and mobile data usage showed a weak relationship.
 
+5\. Data usage patterns were relatively similar across telecom providers.
 
+6\. Gender showed slight variation in customer churn behavior.
 
-3\. Salary and data usage columns contained some outliers.
+7\. Customers displayed different telecom usage behaviors across calls, SMS, and data services.
 
+8\. Customer registrations varied across different months.
 
+9\. Feature engineering helped improve customer segmentation and analysis.
 
-4\. Customers who made more calls also used more mobile data.
-
-
-
-5\. Data usage was almost similar across telecom providers.
-
-
-
-6\. Gender showed a relationship with customer churn.
-
-
-
-7\. High data users were more active in telecom services.
-
-
-
-8\. Customer registrations changed across different months.
-
-
-
-9\. New features helped improve customer segmentation.
-
-
-
-10\. Data cleaning improved the overall quality of the dataset.
-
-
+10\. Data cleaning and preprocessing improved the overall quality and consistency of the dataset.
 
 \---
 
@@ -252,11 +232,15 @@ Created engineered features including:
 
 
 
-\- Middle-aged customers generally had higher salaries.
+\- Middle-aged customers were more common in the dataset.
 
 
 
-\- Customer churn changed across different customer groups.
+
+
+\- Customer churn showed slight differences across customer groups.
+
+
 
 
 
@@ -264,15 +248,20 @@ Created engineered features including:
 
 
 
-\- High-income customers used more telecom services.
+
+
+\- High-income customers showed different telecom usage behaviors.
 
 
 
-\- Customers with low activity were more likely to churn.
+
+\- Some low-activity customers appeared more likely to churn.
 
 
 
-\- Usage behavior changed across age groups and telecom providers
+
+
+\- Usage behavior differed across age groups and telecom providers.
 
 
 
